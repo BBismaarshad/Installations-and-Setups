@@ -1,11 +1,6 @@
 # Linux / WSL Commands
-## 📁 Linux Directory / Folder Commands
 
-This document explains common Linux directory and folder commands in **English**, with examples.
-
----
-
-## 1️⃣ Directory / Folder Commands
+##  1️⃣ 📁 Linux Directory / Folder Commands
 
 | Command             | What it does                                                      | Example               |
 | ------------------- | ----------------------------------------------------------------- | --------------------- |
